@@ -1,0 +1,11 @@
+# Ignore React's heavy folders
+node_modules/
+dist/
+
+# Ignore Python's heavy folders
+.venv/
+__pycache__/
+*.pyc
+
+# Ignore environment secrets
+.env
